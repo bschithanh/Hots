@@ -40,4 +40,4 @@ Ví dụ: Muốn chặn facebook.com ta thêm dòng lệnh sau đây phía dư�
 
 Hoặc khi người dùng sử dụng một phần mềm lậu, không muốn cập nhật hoặc không muốn phát hiện thì dùng cách này.
 
-Để phục hồi file hots chúng ta mở Notepad bằng cách trên, rồi copy nội dung file hots nguyên bản phía trên, Save đè lên file hots theo đường dẫn C:\Windows\System32\Drivers\etc là xong
+Để phục hồi file hots chúng ta mở Notepad bằng cách trên, rồi copy nội dung file hots nguyên bản phía trên, Save đè lên file hots theo đường dẫn C:\Windows\System32\Drivers\etc là xong Hoặc có thể [download file hots chuẩn](https://raw.githubusercontent.com/bschithanh/nguon/blob/main/hosts) ghi đè vào đường dẫn **C:\Windows\System32\Drivers\etc** là xong!

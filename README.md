@@ -1,5 +1,9 @@
 # File hots chuẩn và cách chặn web bằng file hots
-## [Bấm vào đây để xem](https://bsngchithanh.blogspot.com/2025/03/file-hots-chuan-va-chan-web-bang-file.html)
+## [Bấm vào đây để xem hoặc bình luận](https://bsngchithanh.blogspot.com/2025/03/file-hots-chuan-va-chan-web-bang-file.html)
+
+QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạn cà phê ạ!
+
+![image](https://github.com/user-attachments/assets/5eb77be1-b312-4d0c-a5c0-ebc451629ac2)
 
 - Bạn mở **NotePad** bằng quyền **Run as Administrator**, nếu bạn không mở bằng quyền này thì không thể chỉnh sửa được.
 - ![image](https://github.com/user-attachments/assets/b902aa90-ff7b-4156-800c-d2191d8f55b4)

@@ -6,6 +6,7 @@
 - Chọn **File** rồi chọn **Open**, chọn đường dẫn tới file hots là **C:\Windows\System32\Drivers\etc**
 - ![image](https://github.com/user-attachments/assets/e391e715-86e4-4689-b05c-ac6142c174c5)
 - Nội dụng File hots chuẩn:
+  
   ```php
   # Copyright (c) 1993-2009 Microsoft Corp.
   #
